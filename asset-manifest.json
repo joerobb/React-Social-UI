@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/socialui/static/css/main.9156843f.chunk.css",
-    "main.js": "/socialui/static/js/main.29d8d0c5.chunk.js",
-    "main.js.map": "/socialui/static/js/main.29d8d0c5.chunk.js.map",
-    "runtime-main.js": "/socialui/static/js/runtime-main.2b41f342.js",
-    "runtime-main.js.map": "/socialui/static/js/runtime-main.2b41f342.js.map",
-    "static/js/2.53a5f982.chunk.js": "/socialui/static/js/2.53a5f982.chunk.js",
-    "static/js/2.53a5f982.chunk.js.map": "/socialui/static/js/2.53a5f982.chunk.js.map",
-    "index.html": "/socialui/index.html",
-    "precache-manifest.b9357f822c59b6199cb3f8b57ade4543.js": "/socialui/precache-manifest.b9357f822c59b6199cb3f8b57ade4543.js",
-    "service-worker.js": "/socialui/service-worker.js",
-    "static/css/main.9156843f.chunk.css.map": "/socialui/static/css/main.9156843f.chunk.css.map",
-    "static/js/2.53a5f982.chunk.js.LICENSE": "/socialui/static/js/2.53a5f982.chunk.js.LICENSE",
-    "static/media/lego.jpg": "/socialui/static/media/lego.847b8d95.jpg"
+    "main.css": "/React-Social-UI/static/css/main.9156843f.chunk.css",
+    "main.js": "/React-Social-UI/static/js/main.cbfe146a.chunk.js",
+    "main.js.map": "/React-Social-UI/static/js/main.cbfe146a.chunk.js.map",
+    "runtime-main.js": "/React-Social-UI/static/js/runtime-main.2e151db4.js",
+    "runtime-main.js.map": "/React-Social-UI/static/js/runtime-main.2e151db4.js.map",
+    "static/js/2.53a5f982.chunk.js": "/React-Social-UI/static/js/2.53a5f982.chunk.js",
+    "static/js/2.53a5f982.chunk.js.map": "/React-Social-UI/static/js/2.53a5f982.chunk.js.map",
+    "index.html": "/React-Social-UI/index.html",
+    "precache-manifest.487a7cd72c8e2577499b051fedf47586.js": "/React-Social-UI/precache-manifest.487a7cd72c8e2577499b051fedf47586.js",
+    "service-worker.js": "/React-Social-UI/service-worker.js",
+    "static/css/main.9156843f.chunk.css.map": "/React-Social-UI/static/css/main.9156843f.chunk.css.map",
+    "static/js/2.53a5f982.chunk.js.LICENSE": "/React-Social-UI/static/js/2.53a5f982.chunk.js.LICENSE",
+    "static/media/lego.jpg": "/React-Social-UI/static/media/lego.847b8d95.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b41f342.js",
+    "static/js/runtime-main.2e151db4.js",
     "static/js/2.53a5f982.chunk.js",
     "static/css/main.9156843f.chunk.css",
-    "static/js/main.29d8d0c5.chunk.js"
+    "static/js/main.cbfe146a.chunk.js"
   ]
 }
