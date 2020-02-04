@@ -1,0 +1,101 @@
+body {
+  margin: 2% 10%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 70%;
+  border-top: solid 0.5px #D3D3D3;
+  border-bottom: solid 0.5px #D3D3D3;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+img {
+  height: 75px;
+  width: 75px;
+  border-radius: 5px;
+  margin: 10px 10px 10px auto;
+}
+
+.header, .social {
+display: flex;
+flex-direction: row;
+}
+
+.info {
+  color: #808080;
+  margin-left: auto;
+}
+
+.card {
+  background-color: #e1b044;
+  padding: 50px 30px;
+  color: #fff;
+  margin-bottom: 0;
+  border-radius: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.cardInfo {
+display: flex;
+flex-direction: row;
+margin-left: auto;
+background-color: #00BFFF;
+padding: 10px;;
+width: 250px;
+border-radius: 10px;
+}
+
+.cardInfo > h2 {
+  margin:auto;
+}
+
+.footer {
+  border-bottom: solid 0.5px #D3D3D3;
+  border-left: solid 0.5px #D3D3D3;
+  border-right: solid 0.5px #D3D3D3;
+  margin: -9px 10% 50px 10%;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.logo {
+margin: 0;
+height: 75px;
+width: 75px;
+}
+
+.commentButton, .likeButton, .retweetButton {
+  color: #fff;
+  padding: 1px 10px;
+  border-radius: 5px;
+  margin: 0 8px;
+  width: 100px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.commentButton {
+  background-color: #FF6347;
+}
+
+.likeButton {
+  background-color: #ffa500;
+}
+
+.retweetButton {
+  background-color: #0000CD;
+}
+
+.url {
+  margin-right: auto;
+  color: #808080;
+}
